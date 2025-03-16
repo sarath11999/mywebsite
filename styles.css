@@ -7,11 +7,11 @@ body {
 }
 
 profile-pic {
-  width: 80px; /* Adjust size as needed */
-  height: 80px;
+  width: 40px; /* Adjust size as needed */
+  height: 40px;
   border-radius: 50%; /* Makes it circular */
   object-fit: cover;
-  position: absolute;
+  position: right;
   top: 10px;
   right: 20px;
 }
